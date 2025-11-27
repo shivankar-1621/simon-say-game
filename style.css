@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 4rem;
+    margin-top: 2rem;
+}
+h2{
+    color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+
+.btn{
+     height: 200px;
+     width: 200px;
+     border-radius: 20%;
+     border: 10px solid rgb(7, 220, 181);
+     margin: 2.5rem;
+
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: blue;
+}
